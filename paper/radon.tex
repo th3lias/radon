@@ -11,14 +11,29 @@
 \date{\today}
 
 \begin{abstract}
-    This is an overview of a project for the subject ''Wavelets -- Functional Analytical Basics'' in the summer semester of 2025 @ JKU Linz.
+    This is an overview of a project for the subject ''Wavelets - Functional Analytical Basics'' in the summer semester of 2025 @ JKU Linz.
 \end{abstract}
 
 \maketitle
 
-The \(d\)--dimensional Radon transform of a function \(f: \R^d \to \R\) is defined as
+
+When a beam of X-Ray photons travels through a homogeneous material, the intensity of photons at the time of entering the material is high compared to the intensity at the moment of exit. This is described by the equation
 \[
-    \rad f(\sigma, \theta) \defn \intt{\inner{x}{\theta} = \sigma}{}{f(x)}{x},\qquad (\sigma, \theta) \in \R \times \S^{d-1}.
+    I = I_0 e^{-\mu w}
 \]
+where \(I_0\) is the input intensity and 
+\(I\) is the observed intensity after the beam passes the 
+distance \(w\) through the material. The \emph{attenuation} coefficent \(\mu\) 
+depends (among other things) on the density of the material.
+When the material is inhomogeneous, i.e. \(\mu\) represents a varying density, the 
+corresponding equation for the observed intensity becomes \[
+    I = I_0 \exp \left( - \intt{L}{}{\mu(x,y)}{s} \right)
+\]
+where \(L\) is the beam path parametrised by \(s\). By moving the source of the photons around the material, one obtains a set of line integrals over the density \(\mu\) and by taking logarithms, one obtains
+samples of Radon transforms where the \(d\)--dimensional Radon transform of an integrable function \(f: \R^d \to \R\) is defined as
+\[
+    \rad f(\sigma, \theta) \defn \intt{\inner{x}{\theta} = \sigma}{}{f(x)}{x},\qquad (\sigma, \theta) \in \R \times \S^{d-1}
+\]
+where \(\lambda^{d-1}\) is the \((d-1)\)-dimensional Lebesgue measure.
 
 \end{document}

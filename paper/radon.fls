@@ -130,6 +130,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-italic.luc
 INPUT /Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-regular.luc
 OUTPUT radon.pdf
 INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map

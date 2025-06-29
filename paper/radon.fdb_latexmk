@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1751193668.66006 "/Users/eliasmindlberger/workspace/radon/paper/radon.tex" "radon.pdf" "radon" 1751193669.16998 0
+["lualatex"] 1751195318.02425 "/Users/eliasmindlberger/workspace/radon/paper/radon.tex" "radon.pdf" "radon" 1751195318.55126 0
   "/Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1744541893.34487 136312 6547331b6da4bca63f5ef335e1edeaad ""
   "/Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1744541892.3797 127327 1c39dfa079191ba7430719f0296074a7 ""
   "/Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc" 1744541893.38277 128299 be367f675212df055d4e2af5a576ea4b ""
@@ -8,7 +8,7 @@
   "/Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-regular.luc" 1744541893.18433 127960 76b82d68861ba8202eca352d1e6ca2a0 ""
   "/Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc" 1744541893.28275 120247 547538728e5d8f437131d444b5015426 ""
   "/Users/eliasmindlberger/Library/texlive/2025/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1744541892.32591 676339 d4e074ad3f15f513e5368d2c1d573873 ""
-  "/Users/eliasmindlberger/workspace/radon/paper/radon.tex" 1751193668.56546 1648 a879020e74d582f22b9f83190e7aa3b0 ""
+  "/Users/eliasmindlberger/workspace/radon/paper/radon.tex" 1751195317.91645 1578 ec1daa920d538de3c9eb98d59d9d10b2 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf" 1255129361 118828 4d461c73423fe2666dad2ff0dfc3ca68 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1255129361 111536 ae9d1b331000d544f47e5223081b7b54 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf" 1255129361 110496 b9c8767d4cc3bf3f4b21f676bf89aa78 ""
@@ -130,8 +130,8 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741767042 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/luahbtex/lualatex.fmt" 1741767025 5582668 b1495fd31909fbb35eb861ff0df047f0 ""
   "macros.tex" 1751192641.52901 414 f7d5ae8091b270a853c60b8771949775 ""
-  "radon.aux" 1751193669.07022 168 23aeeb56264b611b42959e54d96db7ab "lualatex"
-  "radon.tex" 1751193668.56546 1648 a879020e74d582f22b9f83190e7aa3b0 ""
+  "radon.aux" 1751195318.45014 168 23aeeb56264b611b42959e54d96db7ab "lualatex"
+  "radon.tex" 1751195317.91645 1578 ec1daa920d538de3c9eb98d59d9d10b2 ""
   (generated)
   "radon.aux"
   "radon.log"
